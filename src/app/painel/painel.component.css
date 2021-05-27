@@ -1,0 +1,16 @@
+.jumbotron{
+    background: #e9ecef;
+    border-radius: 0.5em;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.jumbotron .btn{
+    margin-top: 10px;
+}
+
+.jumbotron .row{
+    margin-left: 30px;
+    margin-right: 30px;
+}
